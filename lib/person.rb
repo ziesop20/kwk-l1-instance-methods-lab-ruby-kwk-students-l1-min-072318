@@ -1,5 +1,5 @@
 # person.rb
-class Dog 
+class Person 
   def sit 
     puts "The Dog is sitting"
   end 
