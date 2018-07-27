@@ -1,9 +1,9 @@
 # person.rb
 class Person 
-  def sit 
-    puts "The Dog is sitting"
+  def talk
+    puts "Hello World!"
   end 
-  def bark 
-  puts "Woof!"
+  def walk 
+  puts "The Person is walking"
   end
 end 
